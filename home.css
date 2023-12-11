@@ -1,0 +1,47 @@
+.card{
+    opacity: 0.85;
+    margin: 2em;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    margin-left: 0.96em;
+}
+
+.dis{
+    border: 1mm solid black;
+    /* border-radius: 50%; */
+}
+
+h3{
+    margin: 0.25em;
+    display: inline;
+}
+
+footer{
+    color: #121212;
+    background-color: #c55911;
+    margin: 2em;
+    padding: 1em;
+}
+
+body{
+    background-image: url('./images/home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#features{
+    color: #181111;
+}
+
+#instr{
+    color: white;
+}
+
+ul{
+    color: white; 
+}

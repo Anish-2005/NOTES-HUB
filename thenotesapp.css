@@ -1,0 +1,59 @@
+.mainbody{
+	background-image: url(https://images.unsplash.com/photo-1578450671530-5b6a7c9f32a8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG5vdGVzfGVufDB8fDB8fHww);
+	vertical-align: center;
+	align-content: center;
+	background-size: cover;
+}
+
+#addTxt{
+	border-radius: 10px;
+
+}
+#nothing{
+	text-align: center;
+}
+.mainbody2{
+	background-color: #000000;
+}
+.container my-3{
+	background-color: #312b2b;
+}
+#Heading{
+	text-align: center;
+  text-decoration-color: snow;
+}
+#jumbo
+{
+	background-color: wheat;
+	padding: auto;
+	align-content: center;
+	vertical-align: center;
+	margin: auto;
+	margin-top: 100px;
+	height: 500px;
+	width: 450px;
+}
+
+#special
+{
+	background-color:  wheat;
+	padding: auto;
+	align-content: center;
+	vertical-align: center;
+	margin: auto;
+	margin-top: 100px;
+	height: 500px;
+	width: 450px;
+}
+
+
+.display-4{
+	text-align: center;
+}
+.card-footer{
+	font-size:medium;
+	font-style: italic;
+	display: block;
+	text-align: right;
+    
+}
